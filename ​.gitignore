@@ -1,1 +1,10 @@
-logs/
+# Ignorer les rapports de scan personnels
+logs/*.txt
+
+# Ignorer les fichiers temporaires Python
+__pycache__/
+*.pyc
+
+# Ignorer les fichiers système Android/Mac/Windows
+.DS_Store
+Thumbs.db
