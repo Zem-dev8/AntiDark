@@ -1,1 +1,6 @@
-.
+{
+  "fichiers_surs": [
+    "main.py",
+    "core/scanner.py"
+  ]
+}
